@@ -1,0 +1,438 @@
+body{
+    background-color: black;
+}
+div{
+    margin: 200px 370px;
+    background-color: white;
+    height: 485px;
+    width: 700px;
+}
+
+div.box1{
+    margin: 10px 0px;
+    background-color: #656CEC;
+    height: 180px;
+    width: 700px;
+    border-radius: 0px 0px 25px 25px;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Segoe UI';
+    /* display: flex; */
+}
+div.box2{
+    margin: 4px 0px;
+    background-color: #D2D4F2;;
+    height: 53px;
+    width: 700px;
+    display: flex;
+    
+}
+/* p.b2{
+    padding: 10px 20px;
+    font-size: 25px;
+    font-family: 'Segoe UI';
+} */
+div.b21{
+    margin: 6px 20px 7px 20px;
+    
+    background-color: #D2D4F2;;  
+    height: 30px;
+    width: 20px;
+    
+    font-size: 25px;
+    font-family: 'Segoe UI';
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 3px;
+     
+}
+div.b22{
+    margin: 6px 20px 7px 10px;
+    border-top: 10px;
+    background-color: #BABEFF;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    outline: 2px solid white;
+    
+}
+ div.b23{
+    margin: 6px 60px 7px 10px;
+    
+    background-color: #D2D4F2;;  
+    height: 40px;
+    width: 40px;
+    font-family: 'Segoe UI';
+    text-align: left;
+    font-size: 23px;
+    padding-top: 3px;
+    
+    
+  }
+div.b24{
+    margin: 6px 60px 7px 300px;
+    border-top: 10px;
+    background-color: #D2D4F2;;
+    height: 40px;
+    width: 100px;
+    font-family: 'Segoe UI';
+    text-align: left;
+    font-size: 23px;
+    padding-top: 3px;
+    
+    
+}
+
+
+div.box3{
+    margin: 10px 0px;
+    background-color: #D2D4F2;
+    height: 53px;
+    width: 700px;
+    display: flex;
+    
+}
+div.b31{
+    margin: 6px 20px 7px 20px;
+    
+    background-color: #D2D4F2;;  
+    height: 30px;
+    width: 20px;
+    
+    font-size: 25px;
+    font-family: 'Segoe UI';
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 3px;
+     
+}
+div.b32{
+    margin: 6px 20px 7px 10px;
+    border-top: 10px;
+    background-color: #BABEFF;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    outline: 2px solid white;
+    
+}
+ div.b33{
+    margin: 6px 60px 7px 10px;
+    
+    background-color: #D2D4F2; 
+    height: 40px;
+    width: 40px;
+    font-family: 'Segoe UI';
+    text-align: left;
+    font-size: 23px;
+    padding-top: 3px;
+    
+    
+ }
+div.b34{
+    margin: 6px 60px 7px 300px;
+    border-top: 10px;
+    background-color: #D2D4F2;
+    height: 40px;
+    width: 100px;
+    font-family: 'Segoe UI';
+    text-align: left;
+    font-size: 23px;
+    padding-top: 3px;
+    
+    
+}
+div.box4{
+    margin: 10px 0px;
+    background-color: #D2D4F2;
+    height: 53px;
+    width: 700px;
+    display: flex;
+}
+div.b41{
+    margin: 6px 20px 7px 20px;
+    
+    background-color: #D2D4F2;  
+    height: 30px;
+    width: 20px;
+    
+    font-size: 25px;
+    font-family: 'Segoe UI';
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 3px;
+     
+}
+div.b42{
+    margin: 6px 20px 7px 10px;
+    border-top: 10px;
+    background-color: #BABEFF;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    outline: 2px solid white;
+    
+}
+ div.b43{
+    margin: 6px 60px 7px 10px;
+    
+    background-color: #D2D4F2; 
+    height: 40px;
+    width: 40px;
+    font-family: 'Segoe UI';
+    text-align: left;
+    font-size: 23px;
+    padding-top: 3px;
+    
+    
+ }
+div.b44{
+    margin: 6px 60px 7px 300px;
+    border-top: 10px;
+    background-color: #D2D4F2;
+    height: 40px;
+    width: 100px;
+    font-family: 'Segoe UI';
+    text-align: left;
+    font-size: 23px;
+    padding-top: 3px;
+    
+    
+}
+div.box5{
+    margin: 10px 0px;
+    background-color: #D2D4F2;
+    height: 53px;
+    width: 700px;
+    display:flex;
+}
+div.b51{
+    margin: 6px 20px 7px 20px;
+    
+    background-color: #D2D4F2; 
+    height: 30px;
+    width: 20px;
+    
+    font-size: 25px;
+    font-family: 'Segoe UI';
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 3px;
+     
+}
+div.b52{
+    margin: 6px 20px 7px 10px;
+    border-top: 10px;
+    background-color: #BABEFF;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    outline: 2px solid white;
+    
+}
+ div.b53{
+    margin: 6px 60px 7px 10px;
+    
+    background-color: #D2D4F2;
+    height: 40px;
+    width: 40px;
+    font-family: 'Segoe UI';
+    text-align: left;
+    font-size: 23px;
+    padding-top: 3px;
+    
+    
+ }
+div.b54{
+    margin: 6px 60px 7px 300px;
+    border-top: 10px;
+    background-color: #D2D4F2;
+    height: 40px;
+    width: 100px;
+    font-family: 'Segoe UI';
+    text-align: left;
+    font-size: 23px;
+    padding-top: 3px;
+    
+    
+}
+div.box6{
+    margin: 10px 0px;
+    background-color: #D2D4F2;
+    height: 53px;
+    width: 700px;
+    display:flex;
+}
+div.b61{
+    margin: 6px 20px 7px 20px;
+    
+    background-color: #D2D4F2;
+    height: 30px;
+    width: 20px;
+    
+    font-size: 25px;
+    font-family: 'Segoe UI';
+    text-align: left;
+    padding-left: 10px;
+    padding-top: 3px;
+     
+}
+div.b62{
+    margin: 6px 20px 7px 10px;
+    border-top: 10px;
+    background-color: #BABEFF;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    outline: 2px solid white;
+    
+}
+ div.b63{
+    margin: 6px 60px 7px 10px;
+    
+    background-color: #D2D4F2;
+    height: 40px;
+    width: 40px;
+    font-family: 'Segoe UI';
+    text-align: left;
+    font-size: 23px;
+    padding-top: 3px;
+    
+    
+ }
+div.b64{
+    margin: 6px 60px 7px 300px;
+    border-top: 10px;
+    background-color: #D2D4F2;
+    height: 40px;
+    width: 100px;
+    font-family: 'Segoe UI';
+    text-align: left;
+    font-size: 23px;
+    padding-top: 3px;
+}
+div.box11{
+    margin: 00px 00px;
+    background-color: #656CEC;
+    height: 50px;
+    width: 700px;
+}
+div.box12{
+    margin: 00px 00px;
+    background-color: #656CEC;
+    height: 135px;
+    width: 700px;
+    border-radius: 0px 0px 25px 25px;
+    display: flex;
+}
+div.b121{
+    background-color: #656CEC;
+    margin: 00px 00px 00px 145px;
+    height:134px;
+    width:105px;
+}
+div.b122{
+    background-color: #656CEC;
+    margin: 00px 00px 00px 35px;
+    height:134px;
+    width:115px;
+}
+div.b123{
+    background-color: #656CEC;
+    margin: 00px 35px;
+    height:134px;
+    width:105px;
+}
+div.f1
+{
+    margin: 10px 47px 00px;
+    height: 20px;
+    width: 20px;
+    background-color: #BABEFF;
+    
+    border-radius: 50%;
+    font-size: 15px;
+    font-family: 'Segoe UI';
+}
+div.f2{
+    margin: 5px 20px 00px;
+    height: 75px;
+    width: 75px;
+    background-color: #BABEFF;
+    border-radius: 50%;
+    outline: 3px solid white;
+}
+div.f3{
+    margin: 7px 18px 00px;
+    height: 15px;
+    width: 80px;
+    background-color: #BABEFF;
+    border-radius: 10px 10px 10px 10px;
+    
+    font-size: 12px;
+    font-family: 'Segoe UI';
+    color:whitesmoke;
+    padding-top: 0px;
+}
+div.g1
+{
+    margin: 1px 49px 1px;
+    height: 20px;
+    width: 20px;
+    background-color: #BABEFF;
+    border-radius: 50%;
+    font-size: 15px;
+    font-family: 'Segoe UI';
+}
+div.g2{
+    margin: 3px 15px 00px;
+    height: 88px;
+    width: 88px;
+    background-color: #BABEFF;
+    border-radius: 50%;
+    outline: 3px solid white;
+}
+div.g3{
+    margin: 5px 15px 2px;
+    height: 17px;
+    width: 100px;
+    background-color: #BABEFF;
+    border-radius: 10px 10px 10px 10px;
+   
+    font-size: 14px;
+    font-family: 'Segoe UI';
+    color:whitesmoke;
+    padding-top: 0px;
+}
+div.h1
+{
+    margin: 16px 44px 00px;
+    height: 20px;
+    width: 20px;
+    background-color: #BABEFF;
+    border-radius: 50%;
+    font-size: 15px;
+    font-family: 'Segoe UI';
+}
+div.h2{
+    margin: 4px 20px 00px;
+    height: 70px;
+    width: 70px;
+    background-color: #BABEFF;
+    border-radius: 50%;
+    outline: 3px solid white;
+}
+div.h3{
+    margin: 7px 18px 00px;
+    height: 15px;
+    width: 80px;
+    background-color: #BABEFF;
+    border-radius: 10px 10px 10px 10px;
+    
+    font-size: 12px;
+    font-family: 'Segoe UI';
+    color:whitesmoke;
+    padding-top: 0px;
+}
+
